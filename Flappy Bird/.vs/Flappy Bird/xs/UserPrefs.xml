@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{0DA61185-81B2-BF17-2A51-7A51222133F6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PipeUpOrDown.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Bird.cs" Line="12" Column="33" />
+      <File FileName="Assets/Scripts/Pipe.cs" Line="24" Column="10" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="35" Column="72" />
+      <File FileName="Assets/Scripts/MoveTrigger.cs" Line="11" Column="11" />
+      <File FileName="Assets/Scripts/FollowBird.cs" Line="25" Column="73" />
+      <File FileName="Assets/Scripts/PipeUpOrDown.cs" Line="19" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Flappy_220Bird PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
